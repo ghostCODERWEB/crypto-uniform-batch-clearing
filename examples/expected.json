@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "imbalance": 2,
+      "price": 10,
+      "volume": 3
+    },
+    {
+      "imbalance": 2,
+      "price": 12,
+      "volume": 3
+    }
+  ],
+  "clearing_price": 10,
+  "fills": [
+    {
+      "filled": 3,
+      "id": "b",
+      "quote": 30,
+      "side": "buy"
+    },
+    {
+      "filled": 3,
+      "id": "s",
+      "quote": 30,
+      "side": "sell"
+    }
+  ],
+  "volume": 3
+}

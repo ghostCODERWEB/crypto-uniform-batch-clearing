@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "id": "b",
+      "side": "buy",
+      "price": 12,
+      "quantity": 5,
+      "sequence": 0
+    },
+    {
+      "id": "s",
+      "side": "sell",
+      "price": 10,
+      "quantity": 3,
+      "sequence": 1
+    }
+  ]
+}
